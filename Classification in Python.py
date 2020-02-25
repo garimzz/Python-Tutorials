@@ -67,24 +67,3 @@ from sklearn.metrics import precision_score, recall_score , f1_score
 precision_rf = precision_score(y_test, y_pred_rf)
 recall_rf = recall_score(y_test, y_pred_rf)
 f1_score_rf = f1_score(y_test, y_pred_rf)
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
